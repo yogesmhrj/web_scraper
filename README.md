@@ -1,2 +1,4 @@
 # web_scraper
-command line script for scraping files from the web page into local storage.
+linux command line script for scraping files from the web page into local storage.
+ 
+ *This doesnt not work on windows operating systems
